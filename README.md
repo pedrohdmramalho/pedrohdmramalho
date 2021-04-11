@@ -3,9 +3,8 @@
 <!--
 **pedrohdmramalho/pedrohdmramalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-xcxcxcxcx
+[![Linkedin Badge](https://www.linkedin.com/in/pedro-henrique-126468164/)
 
---!>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
